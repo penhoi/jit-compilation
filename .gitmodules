@@ -4,3 +4,6 @@
 [submodule "tools/spring-petclinic"]
 	path = tools/spring-petclinic
 	url = https://github.com/SpringSource/spring-petclinic.git
+[submodule "compiler/openjdk"]
+	path = compiler/openjdk
+	url = https://github.com/dmlloyd/openjdk.git
