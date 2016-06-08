@@ -7,3 +7,6 @@
 [submodule "compiler/openjdk"]
 	path = compiler/openjdk
 	url = https://github.com/dmlloyd/openjdk.git
+[submodule "compiler/gecko-dev"]
+	path = compiler/gecko-dev
+	url = https://github.com/mozilla/gecko-dev.git
